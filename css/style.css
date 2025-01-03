@@ -2329,8 +2329,13 @@ blockquote {
 .v{
     text-align: center;
 }
-
-
+.lm{
+    font-size:x-large;
+    background-color:#ccc;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+}
 
 
 
